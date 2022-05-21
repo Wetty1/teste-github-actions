@@ -1,6 +1,6 @@
 {
   "name": "github-actions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "repository": "git@github.com:Wetty1/teste-github-actions.git",
   "author": "Wesley <wesley.silva@cartaovaibem.com.br>",
